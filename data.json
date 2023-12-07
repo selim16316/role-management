@@ -1,0 +1,27 @@
+{
+    "admin@admin.com": {
+        "username": "admin",
+        "password": "123456",
+        "role": "admin"
+    },
+    "selim@yahoo.com": {
+        "username": "selim",
+        "password": "123456",
+        "role": "manager"
+    },
+    "laizu@gmail.com": {
+        "username": "laizu",
+        "password": "2356",
+        "role": "user"
+    },
+    "sohag@gmail.com": {
+        "username": "sohag",
+        "password": "789",
+        "role": "user"
+    },
+    "mubin@gmail.com": {
+        "username": "mubin",
+        "password": "321654",
+        "role": "user"
+    }
+}
